@@ -1,0 +1,6 @@
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenia 6\Cwiczenia 6\bin\Debug\Cwiczenia 6.exe.config
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenia 6\Cwiczenia 6\bin\Debug\Cwiczenia 6.exe
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenia 6\Cwiczenia 6\bin\Debug\Cwiczenia 6.pdb
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenia 6\Cwiczenia 6\obj\Debug\Cwiczenia 6.csprojResolveAssemblyReference.cache
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenia 6\Cwiczenia 6\obj\Debug\Cwiczenia 6.exe
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenia 6\Cwiczenia 6\obj\Debug\Cwiczenia 6.pdb
